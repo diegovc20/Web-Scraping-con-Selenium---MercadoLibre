@@ -24,8 +24,8 @@ decide el usuario).
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/diegovc20/<nombre-del-repo>.git
-cd <nombre-del-repo>
+git clone https://github.com/diegovc20/<Web-Scraping-con-Selenium---MercadoLibre>.git
+cd <Web-Scraping-con-Selenium---MercadoLibre>
 ```
 
 2. (Opcional pero recomendado) Crea un entorno virtual:
